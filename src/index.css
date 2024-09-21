@@ -1,4 +1,4 @@
-/* index.css */
+
 
 /* Reset some default browser styles */
 * {
@@ -88,6 +88,7 @@ footer p {
   border-radius: 5px;
   margin: 10px 0;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 300px; /* Added to limit the width */
 }
 
 .quantity a {
